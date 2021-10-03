@@ -1,3 +1,4 @@
+#Project Name: Navigation
 #1. Description of Environment
 We need to train an agent to navigate and collect yellow bananas. For every yellow banana collected the reward is +1 and for every blue banana the reward is -1. The state space is 37 dimension. It includes the agent’s velocity and ray-based perception of objects in the front of the agent. The agent has a total of 4 actions. The agent can move forward, backward, left, right, and these actions are indicated in numerical values 0, 1, 2, 3. The problem is considered solved if the average reward is at least 13+ over 100 episodes. 
 
