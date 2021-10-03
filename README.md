@@ -55,6 +55,7 @@ If you use a different GPU from RTX 2080, you need to change the dockerfile. Ope
 3.11 Download the unity environments with the following commands. Since we are using a docker, you’ll have to use Banana_Linux_NoVis because no display is available. 
 
    wget https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip && unzip Banana_Linux.zip
+
    wget https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip && unzip Banana_Linux_NoVis.zip
 
 3.12 To run the training code, go to main.py and set “Train = 1”. Then, run the command below
