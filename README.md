@@ -74,4 +74,4 @@ The code will print the average scores, and it will create a figure called “Te
 main.py - contains the main method for running the code. The code is divided into training code and testing code 
 dqn_agent.py - contains the code for the dqn_agent and experience replay buffer. The dqn_agent stores data from experiences, chooses actions, and learns from the experiences.
 model.py - contains the deep Q-Network. 
-
+checkpoint.pth - trained model
